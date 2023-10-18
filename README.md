@@ -1,4 +1,4 @@
-# Project Name: Boom Bike Sharing 
+# Project Name: BoomBike Sharing 
 
 >BoomBikes, a bike-sharing service based in the United States, is grappling with revenue challenges in the wake of the pandemic. In anticipation of a surge in demand once lockdown restrictions ease, the company is determined to pinpoint the critical factors that fuel bike usage. Their primary objective is to gain a deep understanding of the essential variables that shape demand and grasp their ramifications. This in-depth analysis empowers them to fine-tune their services with precision, guaranteeing that they align seamlessly with customer preferences and distinguish themselves in the market, ultimately leading to increased profitability.
 
