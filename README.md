@@ -31,7 +31,7 @@ In summary, the company should create attractive promotions for the delightful s
 ## Acknowledgements
 Give credit here.
 - This project was inspired by IIITB(Upgrad).
-- This project was based on the BoomBikes sharing.
+- This project is based on the BoomBikes sharing.
 
 
 ## Contact
